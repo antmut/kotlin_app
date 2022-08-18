@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">kotlin_app</string>
+    <string name="intro">Hi! My name is Toni. I love Android Development and I also love the ocean!</string>
+    <string name="button_hello">Say Hello!</string>
+</resources>

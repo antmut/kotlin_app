@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent = "Theme.AppCompat.Light.NoActionBar">
+        <item name = "colorPrimary">@color/mid_blue</item>
+        <item name = "colorPrimaryDark">@color/dark_blue</item>
+        <item name = "colorAccent">@color/light_blue</item>
+    </style>
+
+    <style name="italicText">
+        <item name="android:textStyle">italic</item>
+        <item name="android:textColor">@color/dark_blue</item>
+    </style>
+
+    <style name="RoundedShape">
+        <item name = "cornerSize">50%</item>
+    </style>
+
+</resources>
